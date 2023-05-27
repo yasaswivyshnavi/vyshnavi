@@ -1,0 +1,16 @@
+h1{ font-style:oblique;
+    color:#f54290;
+    text-align:center;
+    background-color:pink;
+    text-decoration: underline;
+    border-radius: 50%;
+    border:groove;
+    border-width: 10px;
+    border-color: blueviolet;
+    font-size:50px;
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/transparent-vivid-autumn-leaves_23-2148239689.jpg?size=626&ext=jpg&ga=GA1.1.129823252.1663503599&semt=ais");
+    background-position: right bottom;
+    background-repeat: repeat-x;
+}
